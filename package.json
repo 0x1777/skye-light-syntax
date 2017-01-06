@@ -2,10 +2,11 @@
   "name": "skye-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "The light version of the Skye theme",
+  "description": "A light syntax theme for Atom",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "skye"
   ],
   "repository": "https://github.com/0x1777/skye-light-syntax",
   "license": "MIT",
